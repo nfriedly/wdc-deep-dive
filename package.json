@@ -1,0 +1,17 @@
+{
+  "name": "wdc-node-sdk-presentation",
+  "version": "1.0.0",
+  "description": "Technical Deep Dive into the IBM Watson Developer Cloud Node.js SDK",
+  "main": "index.js",
+  "dependencies": {
+    "speaker": "^0.2.6",
+    "watson-developer-cloud": "^1.2.6",
+    "wav": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Friedly <http://nfriedly.com/>",
+  "license": "MIT"
+}
